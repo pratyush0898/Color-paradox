@@ -1,2 +1,8 @@
-# Color paradox
-  Color Paradox is a web-based tool to create and customize color palettes in real-time. Built with Vite + React, it features a dynamic UI for adjusting text, background, primary, secondary colors, and more. Ideal for designers and developers looking for precise control over color schemes.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

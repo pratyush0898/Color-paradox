@@ -1,0 +1,85 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 1.7rem 4.9rem;
+    margin: 0 0.7rem;
+    height: 3rem;
+    overflow: hidden;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    /* text-align: center; */
+}
+
+nav img {
+    height: 1.8rem;
+}
+
+nav .sec2 {
+    width: 349px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+nav .sec2 button {
+    background-color: transparent;
+    border: 1px solid rgb(209, 213, 219);
+    border-radius: .5rem;
+    box-sizing: border-box;
+    font-size: .875rem;
+    font-weight: 600;
+    letter-spacing: 1.1px; 
+    line-height: 1.25rem;
+    padding: .3rem 1rem;
+    text-align: center;
+    text-decoration: none #D1D5DB solid;
+    text-decoration-thickness: auto;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+nav .sec1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 9px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+nav .sec2 .Link1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+
+nav .sec2 .Link1 img {
+    height: 20px;
+    width: auto;
+}
+
+nav .sec2 .Link2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+
+nav .sec2 .Link3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+
+nav .sec2 .Link3 button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}

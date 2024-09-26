@@ -1,5 +1,7 @@
 # Color Paradox
 
+**Under Construction**
+
 Color Paradox is a web-based tool to create and customize color palettes in real-time. Built with Vite and React, it features a dynamic user interface that allows you to adjust text, background, primary, secondary colors, and more. This tool is ideal for designers and developers looking for precise control over color schemes.
 
 ## Features
